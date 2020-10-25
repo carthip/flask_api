@@ -1,0 +1,6 @@
+To Run Gunicorn
+In path
+/flask_api
+
+run cmd :-
+gunicorn app:app --workers=2
